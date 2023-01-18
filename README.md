@@ -22,8 +22,8 @@
   <img alt="License" src="https://img.shields.io/badge/license-MIT-%2304D361?color=rgb(89,101,224)">
 </p>
 
-<p align="center">Nesse projeto eu consegui fazer uma revisão geral sobre os fundamentos do react e do typescript, onde não tive nenhuma dificuldade no entendimento, e também conheci um pouco sobre o "vite" que é uma ferramenta muito interessante para nos ajudar no desenvolvimento e na performance da aplicação!</p>
-
 <p align="center">
   <img src="Screenshot_1.png">
 </p>
+
+<p align="center">Nesse projeto eu consegui fazer uma revisão geral sobre os fundamentos do react e do typescript, onde não tive nenhuma dificuldade no entendimento, e também conheci um pouco sobre o "vite" que é uma ferramenta muito interessante para nos ajudar no desenvolvimento e na performance da aplicação!</p>
